@@ -13,18 +13,21 @@
 <body>
     <header>ALURAFLIX</header>
 
+
+
 <section>
     <div class="chamada-texto">
-        <h1>ATRAVÉS DO ARANHAVERSO</h1>
+        <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
         <p>#homem-aranha</p>
     </div>
 </section>
 
 
-        <div>
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=7wOBlUFPwDKhGRA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
+ <div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
     </section>
+
 
 <section>
   <h2>Filmes e séries</h2>
